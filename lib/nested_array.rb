@@ -29,6 +29,7 @@ def array_literal_matrix
   
   array_literal_matrix = 
   [ENNET_HOUSE.sort, ENFIELD_TENNIS_ACADEMY.sort]
+end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
